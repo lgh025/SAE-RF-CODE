@@ -1,0 +1,44 @@
+acc_softmax =
+
+    0.8247
+
+
+acc_svm =
+
+    0.7762
+
+
+acc_rf =
+
+    0.8172
+
+
+meanAUC_rf =
+
+    0.9713
+
+
+stdAUC_rf =
+
+    0.0185
+
+
+
+meanAUC_softmax =
+
+    0.9744
+
+
+stdAUC_softmax  =
+
+    0.0176
+
+meanAUC_svm =
+
+    0.9661
+
+
+stdAUC_svm =
+
+    0.0229
+

@@ -1,0 +1,59 @@
+acc_softmax =
+
+    0.6094
+
+
+acc_svm =
+
+    0.6719
+
+
+acc_rf =
+
+    0.6875
+1111111111111111111111111111111111111111
+
+meanAUC_rf =
+
+    0.3647
+
+
+stdAUC_rf =
+
+    0.4564
+
+meanAUC_svm =
+
+    0.3867
+
+
+stdAUC_svm=
+
+    0.4841
+
+
+meanAUC_softmax =
+
+    0.3414
+
+
+stdAUC_softmax =
+
+
+    0.4387
+000000000000000000000000000000000000000000000000000
+2ci
+acc_softmax = 0.6094
+
+
+acc_svm =    0.6250
+
+
+acc_rf =    0.6406
+
+
+meanAUC_rf =    0.3308       stdAUC_rf =    0.4165
+
+meanAUC_svm =  0.3478        stdAUC_svm =    0.4452
+
+meanAUC_softmax = 0.3217     stdAUC_softmax =    0.4237
